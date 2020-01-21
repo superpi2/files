@@ -1,0 +1,156 @@
+{
+	"frames": [{
+			"name": "empty-bg",
+			"position": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 100
+			}
+		},
+		{
+			"name": "stage-1",
+			"position": {
+				"x": 160,
+				"y": 0,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "stage-2",
+			"position": {
+				"x": 160,
+				"y": 45,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "stage-3",
+			"position": {
+				"x": 160,
+				"y": 90,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "stage-?",
+			"position": {
+				"x": 115,
+				"y": 180,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "highlight-1",
+			"position": {
+				"x": 160,
+				"y": 135,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "highlight-2",
+			"position": {
+				"x": 160,
+				"y": 180,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "highlight-3",
+			"position": {
+				"x": 160,
+				"y": 225,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "highlight-?",
+			"position": {
+				"x": 115,
+				"y": 225,
+				"w": 42,
+				"h": 41
+			}
+		},
+		{
+			"name": "lock-0",
+			"position": {
+				"x": 0,
+				"y": 105,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-1",
+			"position": {
+				"x": 0,
+				"y": 155,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-2",
+			"position": {
+				"x": 0,
+				"y": 205,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-3",
+			"position": {
+				"x": 0,
+				"y": 255,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-4",
+			"position": {
+				"x": 50,
+				"y": 105,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-5",
+			"position": {
+				"x": 50,
+				"y": 155,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-6",
+			"position": {
+				"x": 50,
+				"y": 205,
+				"w": 49,
+				"h": 47
+			}
+		},
+		{
+			"name": "lock-7",
+			"position": {
+				"x": 50,
+				"y": 255,
+				"w": 49,
+				"h": 47
+			}
+		}
+	]
+}
